@@ -33,7 +33,6 @@
 @GabrielA
 @Geoidk
 @Guto
-@Halfaxa
 @Hermes
 @Hoax
 @Honey
@@ -44,7 +43,9 @@
 @Jujuba
 @Juma
 @kaladin
+@kao
 @kevin
+@Kevin
 @key
 @L
 @livande
@@ -83,6 +84,7 @@
 @Rodd
 @Romeu
 @romulo
+@Rozz
 @rxmulo
 @Saharinha
 @SAMOT
@@ -91,15 +93,19 @@
 @Shalalalow
 @Shui
 @Sleet
+@SometimesJames
 @STILES
 @stormi
 @Tass
 @Tavares
+@ted
 @TeeJay
 @Teofy
 @teusdeVirgo
+@Thiago
 @TQG
 @urlalisson
+@utopia
 @veles
 @Vichenx
 @vinizinho
@@ -107,4 +113,5 @@
 @vjredighieri
 @xoxocucetinha
 @xspacedude
+@youngdreamer
 @zcpc
