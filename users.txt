@@ -44,7 +44,6 @@
 @Juma
 @kaladin
 @kao
-@kevin
 @Kevin
 @key
 @L
