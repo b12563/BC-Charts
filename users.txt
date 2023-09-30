@@ -40,13 +40,14 @@
 @IGOR
 @igorferreira
 @iRobot
+@jackxlope
 @Jujuba
-@Juma
 @kaladin
 @kao
 @Kevin
 @key
 @L
+@Lan
 @livande
 @llbr
 @Loann
@@ -65,7 +66,6 @@
 @Mr.Salvatore
 @Murdoc
 @Number.C
-@oliver
 @outtathisworld
 @Panty
 @peace
