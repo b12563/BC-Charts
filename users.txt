@@ -1,11 +1,10 @@
 @acacia
 @andarilho
-@AngelDaviCat
-@Anthony
 @arca
 @armie
 @b12563
 @babylon
+@BEN
 @blondie
 @Bolin
 @boloderolo
@@ -28,7 +27,6 @@
 @FelipeFoggia
 @Fernando
 @fifi
-@gabiu
 @gabriel
 @GabrielA
 @Geoidk
@@ -42,6 +40,7 @@
 @iRobot
 @jackxlope
 @Jujuba
+@Juma
 @kaladin
 @kao
 @Kevin
@@ -102,7 +101,6 @@
 @Teofy
 @teusdeVirgo
 @Thiago
-@TQG
 @urlalisson
 @utopia
 @veles
