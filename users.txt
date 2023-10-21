@@ -56,6 +56,7 @@
 @Luix
 @Lupina
 @MAGO 
+@Marcelo
 @mari
 @maryconnan
 @Matheus
@@ -95,7 +96,6 @@
 @stormi
 @Tass
 @Tavares
-@ted
 @TeeJay
 @Teofy
 @teusdeVirgo
